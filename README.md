@@ -1,2 +1,2 @@
 # CakeShop
-Cake Shop website for mini project.
+The Cake House website for mini project.
