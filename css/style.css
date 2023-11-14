@@ -76,6 +76,7 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
+  background-color:#F2F2F2;
 }
 
 #navContent ul {
